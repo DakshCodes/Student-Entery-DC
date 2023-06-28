@@ -1,7 +1,7 @@
 import React from 'react'
 import Create from '../../components/Create'
 
-const index = () => {
+const Index = () => {
   return (
     <div className='h-screen flex justify-center items-center'>
       <Create />
